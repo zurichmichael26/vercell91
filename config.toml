@@ -1,0 +1,4 @@
+baseURL = "https://cartooncharacter70.vercel.app"
+languageCode = "en-us"
+title = "Character Cartoon Art"
+theme = "tale-hugo-master"
